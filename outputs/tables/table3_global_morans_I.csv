@@ -1,0 +1,9 @@
+analyte,aquifer,variable,n_wells,morans_I,expected_I,z_perm,p_perm
+arsenic,Gulf Coast,log10_conc,1919,0.372,-0.0005,33.7,0.001
+arsenic,Gulf Coast,exceed,1919,0.344,-0.0005,31.8,0.001
+arsenic,Ogallala,log10_conc,2120,0.694,-0.0005,65.7,0.001
+arsenic,Ogallala,exceed,2120,0.578,-0.0005,57.4,0.001
+nitrate,Gulf Coast,log10_conc,1770,0.523,-0.0006,45.4,0.001
+nitrate,Gulf Coast,exceed,1770,0.178,-0.0006,15.8,0.001
+nitrate,Ogallala,log10_conc,2636,0.416,-0.0004,44.8,0.001
+nitrate,Ogallala,exceed,2636,0.385,-0.0004,41.5,0.001

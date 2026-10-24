@@ -1,0 +1,7 @@
+analyte,aquifer,n_wells,term,odds_ratio,ci_low,ci_high,p_value
+arsenic,Gulf Coast,3537,"log10(well depth), OR per 10x depth",0.636,0.385,1.051,0.0772
+arsenic,Ogallala,3537,"log10(well depth), OR per 10x depth",0.011,0.004,0.029,0.0
+arsenic,Ogallala vs Gulf Coast,3537,aquifer OR at median depth (312 ft),0.585,0.285,1.203,0.1448
+nitrate,Gulf Coast,3636,"log10(well depth), OR per 10x depth",0.095,0.039,0.229,0.0
+nitrate,Ogallala,3636,"log10(well depth), OR per 10x depth",0.006,0.002,0.022,0.0
+nitrate,Ogallala vs Gulf Coast,3636,aquifer OR at median depth (317 ft),1.265,0.448,3.572,0.6571

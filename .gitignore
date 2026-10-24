@@ -1,0 +1,17 @@
+# raw downloads (fetched by scripts/01_download_data.py)
+data/raw/
+*.zip
+# caches and environments
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+.DS_Store
+# office files and GIS side files
+*.docx
+*.xlsx
+*.gpkg-journal
+*.gpkg-wal
+*.gpkg-shm
+*.aux.xml

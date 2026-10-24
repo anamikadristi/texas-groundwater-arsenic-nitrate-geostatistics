@@ -1,0 +1,5 @@
+analyte,aquifer,n_wells,year_min,year_max,median_year,pct_nondetect,median_conc,p90_conc,n_exceed,pct_exceed,n_domestic,pct_exceed_domestic,n_with_depth
+arsenic,Gulf Coast,1936,1990,2026,2003,50.4,2.6,13.2,257,13.3,509,14.3,1826
+arsenic,Ogallala,2123,1990,2025,2003,26.8,5.0,14.7,373,17.6,569,22.5,1731
+nitrate,Gulf Coast,1775,1990,2025,2001,49.2,0.03,4.17,47,2.6,506,4.2,1661
+nitrate,Ogallala,2641,1990,2024,2000,0.9,2.16,9.32,235,8.9,752,14.0,1985

@@ -1,0 +1,30 @@
+analyte,aquifer,well_use,n,pct_exceed
+arsenic,Gulf Coast,Domestic,509,14.3
+arsenic,Gulf Coast,Industrial,49,18.4
+arsenic,Gulf Coast,Irrigation,97,16.5
+arsenic,Gulf Coast,Plugged or Destroyed,69,4.3
+arsenic,Gulf Coast,Public Supply,847,8.3
+arsenic,Gulf Coast,Stock,185,33.0
+arsenic,Gulf Coast,Unused,111,7.2
+arsenic,Ogallala,Domestic,569,22.5
+arsenic,Ogallala,Industrial,26,11.5
+arsenic,Ogallala,Irrigation,695,15.0
+arsenic,Ogallala,Plugged or Destroyed,28,17.9
+arsenic,Ogallala,Public Supply,448,14.1
+arsenic,Ogallala,Stock,278,17.3
+arsenic,Ogallala,Unused,54,25.9
+nitrate,Gulf Coast,Commercial,21,0.0
+nitrate,Gulf Coast,Domestic,506,4.2
+nitrate,Gulf Coast,Industrial,40,0.0
+nitrate,Gulf Coast,Irrigation,89,2.2
+nitrate,Gulf Coast,Plugged or Destroyed,70,1.4
+nitrate,Gulf Coast,Public Supply,736,0.0
+nitrate,Gulf Coast,Stock,187,10.7
+nitrate,Gulf Coast,Unused,77,2.6
+nitrate,Ogallala,Domestic,752,14.0
+nitrate,Ogallala,Industrial,30,6.7
+nitrate,Ogallala,Irrigation,946,7.9
+nitrate,Ogallala,Plugged or Destroyed,34,8.8
+nitrate,Ogallala,Public Supply,439,4.1
+nitrate,Ogallala,Stock,344,5.8
+nitrate,Ogallala,Unused,70,11.4

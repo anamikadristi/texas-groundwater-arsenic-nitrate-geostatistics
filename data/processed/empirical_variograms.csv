@@ -1,0 +1,161 @@
+lag_km,gamma,n_pairs,analyte,aquifer,variable
+3.75,0.06363,4432,arsenic,Gulf Coast,indicator
+11.25,0.06502,11043,arsenic,Gulf Coast,indicator
+18.75,0.0703,16920,arsenic,Gulf Coast,indicator
+26.25,0.07048,21921,arsenic,Gulf Coast,indicator
+33.75,0.06959,26655,arsenic,Gulf Coast,indicator
+41.25,0.07181,30568,arsenic,Gulf Coast,indicator
+48.75,0.07402,34424,arsenic,Gulf Coast,indicator
+56.25,0.07624,37381,arsenic,Gulf Coast,indicator
+63.75,0.07482,40116,arsenic,Gulf Coast,indicator
+71.25,0.07752,42549,arsenic,Gulf Coast,indicator
+78.75,0.07949,43565,arsenic,Gulf Coast,indicator
+86.25,0.07866,44531,arsenic,Gulf Coast,indicator
+93.75,0.07816,45426,arsenic,Gulf Coast,indicator
+101.25,0.08183,44399,arsenic,Gulf Coast,indicator
+108.75,0.0806,43887,arsenic,Gulf Coast,indicator
+116.25,0.08338,44235,arsenic,Gulf Coast,indicator
+123.75,0.08615,43273,arsenic,Gulf Coast,indicator
+131.25,0.08777,42265,arsenic,Gulf Coast,indicator
+138.75,0.08824,41009,arsenic,Gulf Coast,indicator
+146.25,0.08932,39099,arsenic,Gulf Coast,indicator
+3.75,0.17062,4432,arsenic,Gulf Coast,log10_conc
+11.25,0.18133,11043,arsenic,Gulf Coast,log10_conc
+18.75,0.18197,16920,arsenic,Gulf Coast,log10_conc
+26.25,0.18633,21921,arsenic,Gulf Coast,log10_conc
+33.75,0.1802,26655,arsenic,Gulf Coast,log10_conc
+41.25,0.18743,30568,arsenic,Gulf Coast,log10_conc
+48.75,0.1904,34424,arsenic,Gulf Coast,log10_conc
+56.25,0.19652,37381,arsenic,Gulf Coast,log10_conc
+63.75,0.1924,40116,arsenic,Gulf Coast,log10_conc
+71.25,0.19696,42549,arsenic,Gulf Coast,log10_conc
+78.75,0.19751,43565,arsenic,Gulf Coast,log10_conc
+86.25,0.19974,44531,arsenic,Gulf Coast,log10_conc
+93.75,0.20181,45426,arsenic,Gulf Coast,log10_conc
+101.25,0.20526,44399,arsenic,Gulf Coast,log10_conc
+108.75,0.20595,43887,arsenic,Gulf Coast,log10_conc
+116.25,0.2089,44235,arsenic,Gulf Coast,log10_conc
+123.75,0.2148,43273,arsenic,Gulf Coast,log10_conc
+131.25,0.22183,42265,arsenic,Gulf Coast,log10_conc
+138.75,0.22367,41009,arsenic,Gulf Coast,log10_conc
+146.25,0.22623,39099,arsenic,Gulf Coast,log10_conc
+3.75,0.02255,3392,nitrate,Gulf Coast,indicator
+11.25,0.02087,8241,nitrate,Gulf Coast,indicator
+18.75,0.01827,12779,nitrate,Gulf Coast,indicator
+26.25,0.02039,16503,nitrate,Gulf Coast,indicator
+33.75,0.01904,20773,nitrate,Gulf Coast,indicator
+41.25,0.02115,24110,nitrate,Gulf Coast,indicator
+48.75,0.01703,26922,nitrate,Gulf Coast,indicator
+56.25,0.01724,29610,nitrate,Gulf Coast,indicator
+63.75,0.01779,31824,nitrate,Gulf Coast,indicator
+71.25,0.01662,33879,nitrate,Gulf Coast,indicator
+78.75,0.01597,34763,nitrate,Gulf Coast,indicator
+86.25,0.0178,35789,nitrate,Gulf Coast,indicator
+93.75,0.01644,36736,nitrate,Gulf Coast,indicator
+101.25,0.01789,36507,nitrate,Gulf Coast,indicator
+108.75,0.01578,36277,nitrate,Gulf Coast,indicator
+116.25,0.01689,36736,nitrate,Gulf Coast,indicator
+123.75,0.0169,36342,nitrate,Gulf Coast,indicator
+131.25,0.01713,35294,nitrate,Gulf Coast,indicator
+138.75,0.01698,34577,nitrate,Gulf Coast,indicator
+146.25,0.01627,33164,nitrate,Gulf Coast,indicator
+3.75,0.43885,3392,nitrate,Gulf Coast,log10_conc
+11.25,0.53217,8241,nitrate,Gulf Coast,log10_conc
+18.75,0.53039,12779,nitrate,Gulf Coast,log10_conc
+26.25,0.54942,16503,nitrate,Gulf Coast,log10_conc
+33.75,0.59322,20773,nitrate,Gulf Coast,log10_conc
+41.25,0.63869,24110,nitrate,Gulf Coast,log10_conc
+48.75,0.63263,26922,nitrate,Gulf Coast,log10_conc
+56.25,0.67007,29610,nitrate,Gulf Coast,log10_conc
+63.75,0.69122,31824,nitrate,Gulf Coast,log10_conc
+71.25,0.70563,33879,nitrate,Gulf Coast,log10_conc
+78.75,0.72758,34763,nitrate,Gulf Coast,log10_conc
+86.25,0.74869,35789,nitrate,Gulf Coast,log10_conc
+93.75,0.76562,36736,nitrate,Gulf Coast,log10_conc
+101.25,0.77072,36507,nitrate,Gulf Coast,log10_conc
+108.75,0.74697,36277,nitrate,Gulf Coast,log10_conc
+116.25,0.72986,36736,nitrate,Gulf Coast,log10_conc
+123.75,0.71817,36342,nitrate,Gulf Coast,log10_conc
+131.25,0.72394,35294,nitrate,Gulf Coast,log10_conc
+138.75,0.72279,34577,nitrate,Gulf Coast,log10_conc
+146.25,0.72893,33164,nitrate,Gulf Coast,log10_conc
+3.75,0.03758,6093,arsenic,Ogallala,indicator
+11.25,0.05977,15142,arsenic,Ogallala,indicator
+18.75,0.07241,21365,arsenic,Ogallala,indicator
+26.25,0.08283,26857,arsenic,Ogallala,indicator
+33.75,0.08466,32216,arsenic,Ogallala,indicator
+41.25,0.08226,38434,arsenic,Ogallala,indicator
+48.75,0.08624,42888,arsenic,Ogallala,indicator
+56.25,0.08592,47130,arsenic,Ogallala,indicator
+63.75,0.08859,51094,arsenic,Ogallala,indicator
+71.25,0.09415,53629,arsenic,Ogallala,indicator
+78.75,0.09442,55980,arsenic,Ogallala,indicator
+86.25,0.09912,56916,arsenic,Ogallala,indicator
+93.75,0.09825,60864,arsenic,Ogallala,indicator
+101.25,0.09991,61965,arsenic,Ogallala,indicator
+108.75,0.10199,65152,arsenic,Ogallala,indicator
+116.25,0.10094,67689,arsenic,Ogallala,indicator
+123.75,0.10542,66888,arsenic,Ogallala,indicator
+131.25,0.11092,65245,arsenic,Ogallala,indicator
+138.75,0.11627,64151,arsenic,Ogallala,indicator
+146.25,0.11831,62630,arsenic,Ogallala,indicator
+3.75,0.32654,6093,arsenic,Ogallala,log10_conc
+11.25,0.29906,15142,arsenic,Ogallala,log10_conc
+18.75,0.23105,21365,arsenic,Ogallala,log10_conc
+26.25,0.19369,26857,arsenic,Ogallala,log10_conc
+33.75,0.20878,32216,arsenic,Ogallala,log10_conc
+41.25,0.23345,38434,arsenic,Ogallala,log10_conc
+48.75,0.2339,42888,arsenic,Ogallala,log10_conc
+56.25,0.24357,47130,arsenic,Ogallala,log10_conc
+63.75,0.25952,51094,arsenic,Ogallala,log10_conc
+71.25,0.26564,53629,arsenic,Ogallala,log10_conc
+78.75,0.25846,55980,arsenic,Ogallala,log10_conc
+86.25,0.24931,56916,arsenic,Ogallala,log10_conc
+93.75,0.27996,60864,arsenic,Ogallala,log10_conc
+101.25,0.29306,61965,arsenic,Ogallala,log10_conc
+108.75,0.31652,65152,arsenic,Ogallala,log10_conc
+116.25,0.32937,67689,arsenic,Ogallala,log10_conc
+123.75,0.32462,66888,arsenic,Ogallala,log10_conc
+131.25,0.31365,65245,arsenic,Ogallala,log10_conc
+138.75,0.31432,64151,arsenic,Ogallala,log10_conc
+146.25,0.3079,62630,arsenic,Ogallala,log10_conc
+3.75,0.03945,9416,nitrate,Ogallala,indicator
+11.25,0.04701,23401,nitrate,Ogallala,indicator
+18.75,0.05109,33744,nitrate,Ogallala,indicator
+26.25,0.0571,42547,nitrate,Ogallala,indicator
+33.75,0.05683,50466,nitrate,Ogallala,indicator
+41.25,0.0581,58886,nitrate,Ogallala,indicator
+48.75,0.0586,65449,nitrate,Ogallala,indicator
+56.25,0.05663,72362,nitrate,Ogallala,indicator
+63.75,0.06022,78545,nitrate,Ogallala,indicator
+71.25,0.06239,83607,nitrate,Ogallala,indicator
+78.75,0.06518,87389,nitrate,Ogallala,indicator
+86.25,0.06626,90247,nitrate,Ogallala,indicator
+93.75,0.06457,96003,nitrate,Ogallala,indicator
+101.25,0.06547,98441,nitrate,Ogallala,indicator
+108.75,0.06601,101843,nitrate,Ogallala,indicator
+116.25,0.0657,105320,nitrate,Ogallala,indicator
+123.75,0.06415,104430,nitrate,Ogallala,indicator
+131.25,0.06308,100798,nitrate,Ogallala,indicator
+138.75,0.0621,99248,nitrate,Ogallala,indicator
+146.25,0.06319,96335,nitrate,Ogallala,indicator
+3.75,0.12254,9416,nitrate,Ogallala,log10_conc
+11.25,0.15956,23401,nitrate,Ogallala,log10_conc
+18.75,0.16952,33744,nitrate,Ogallala,log10_conc
+26.25,0.18483,42547,nitrate,Ogallala,log10_conc
+33.75,0.18863,50466,nitrate,Ogallala,log10_conc
+41.25,0.19386,58886,nitrate,Ogallala,log10_conc
+48.75,0.20034,65449,nitrate,Ogallala,log10_conc
+56.25,0.21155,72362,nitrate,Ogallala,log10_conc
+63.75,0.21766,78545,nitrate,Ogallala,log10_conc
+71.25,0.22167,83607,nitrate,Ogallala,log10_conc
+78.75,0.22348,87389,nitrate,Ogallala,log10_conc
+86.25,0.22348,90247,nitrate,Ogallala,log10_conc
+93.75,0.22673,96003,nitrate,Ogallala,log10_conc
+101.25,0.2302,98441,nitrate,Ogallala,log10_conc
+108.75,0.22625,101843,nitrate,Ogallala,log10_conc
+116.25,0.23019,105320,nitrate,Ogallala,log10_conc
+123.75,0.22849,104430,nitrate,Ogallala,log10_conc
+131.25,0.23197,100798,nitrate,Ogallala,log10_conc
+138.75,0.23604,99248,nitrate,Ogallala,log10_conc
+146.25,0.23984,96335,nitrate,Ogallala,log10_conc

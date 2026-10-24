@@ -1,0 +1,21 @@
+analyte,aquifer,depth_class,n_wells,n_exceed,pct_exceed,median_conc
+arsenic,Gulf Coast,<100 ft,152,21,13.8,1.02
+arsenic,Gulf Coast,100-199 ft,245,41,16.7,2.63
+arsenic,Gulf Coast,200-399 ft,500,62,12.4,2.5549999999999997
+arsenic,Gulf Coast,400-799 ft,534,55,10.3,2.455
+arsenic,Gulf Coast,>=800 ft,378,40,10.6,3.2
+arsenic,Ogallala,<100 ft,138,62,44.9,8.879999999999999
+arsenic,Ogallala,100-199 ft,424,163,38.4,7.24
+arsenic,Ogallala,200-399 ft,755,58,7.7,4.6
+arsenic,Ogallala,400-799 ft,395,3,0.8,2.5
+arsenic,Ogallala,>=800 ft,16,0,0.0,0.05
+nitrate,Gulf Coast,<100 ft,126,13,10.3,0.417
+nitrate,Gulf Coast,100-199 ft,231,7,3.0,0.1
+nitrate,Gulf Coast,200-399 ft,473,17,3.6,0.03
+nitrate,Gulf Coast,400-799 ft,485,2,0.4,0.02
+nitrate,Gulf Coast,>=800 ft,341,0,0.0,0.01
+nitrate,Ogallala,<100 ft,156,62,39.7,6.35
+nitrate,Ogallala,100-199 ft,453,73,16.1,3.9012353701078464
+nitrate,Ogallala,200-399 ft,843,13,1.5,1.99
+nitrate,Ogallala,400-799 ft,512,5,1.0,1.86
+nitrate,Ogallala,>=800 ft,16,0,0.0,1.4109505571333878
